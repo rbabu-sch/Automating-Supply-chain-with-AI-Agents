@@ -93,6 +93,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## Contact
 
-For questions or collaboration opportunities, feel free to reach out at [your-email@example.com].
+For questions or collaboration opportunities, feel free to reach out at [vinayprashant919@gmail.com].
 
 
