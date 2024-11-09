@@ -1,9 +1,6 @@
-# Automating-Procurent-Supply-chain-with-AI-Agents
-Automating Procuremtn Supply chain with AI Agents
-
-Version 1.0 will be delivered by 25 December 2024
-
 # Automating Procurement Supply Chain with AI Agents
+
+###Version 1.0 will be delivered by 25 December 2024
 
 ## Overview
 
