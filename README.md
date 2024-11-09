@@ -14,7 +14,7 @@ In this repository, we explore how to leverage AI agents to automate various asp
 - **OCR Capability**: Uses PyTesseract OCR and Llama3.2 for field mapping and invoice validation, allowing accurate extraction of information from documents.
 - **Supplier Recommendation and Performance Prediction**: Uses multinomial linear regression to predict suppliers based on historical data, calculating TE, CE, award probability, participation probability, and supplier performance based on past history performances for similar line items.
 
-## Features in Pipeline
+## Features in Development
 
 - **Supplier Onboarding Automation**: Use NLP-powered AI agents to automate the onboarding process, extracting and validating supplier data from documents and performing compliance checks.
 - **Intelligent RFQ Handling**: AI agents automate the generation and management of RFQs, leveraging RAG models to create RFQ documents, engage with suppliers, and gather quotes.
